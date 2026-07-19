@@ -3,7 +3,7 @@
 > **A software quality assurance case study demonstrating the complete testing lifecycle of a mental wellness application, from planning and test design to execution and validation.**
 
 <p align="center">
-  <img src="images/cover.png" width="100%">
+  <img src="cover.png" width="100%">
 </p>
 
 ---
@@ -12,14 +12,14 @@
 
 Soluna is a conceptual mental wellness platform designed to support users through secure journaling, mood tracking, community interaction, and privacy-focused features.
 
-Unlike a traditional software project, this repository focuses on **how software quality is engineered**. It documents the complete software testing lifecycle, demonstrating how requirements were transformed into structured test plans, detailed test cases, and validated through systematic execution.
+Unlike a traditional software project, this repository focuses on **how software quality is engineered**. It documents the complete software testing lifecycle, demonstrating how requirements were translated into a comprehensive test strategy, executed systematically, and validated thoroughly.
 
 ---
 
 ## System Overview
 
 <p align="center">
-  <img src="images/system-overview.png" width="90%">
+  <img src="system-overview.png" width="90%">
 </p>
 
 The application includes several integrated modules, including:
@@ -45,7 +45,7 @@ Software quality is built progressively. Each phase contributed a different laye
 ## Phase 1 — Test Planning
 
 <p align="center">
-  <img src="images/phase1.png" width="90%">
+  <img src="phase1.png" width="90%">
 </p>
 
 The planning phase established the foundation of the testing process by defining:
@@ -65,7 +65,7 @@ Careful planning ensured that every testing activity remained aligned with the p
 ## Phase 2 — Test Design
 
 <p align="center">
-  <img src="images/test-cases.png" width="90%">
+  <img src="test-cases.png" width="90%">
 </p>
 
 After defining the testing strategy, comprehensive test cases were designed to verify the application's core functionality.
@@ -84,7 +84,7 @@ Testing techniques included:
 ### Sample Test Cases
 
 <p align="center">
-  <img src="images/integration-test-cases.png" width="90%">
+  <img src="integration-test-cases.png" width="90%">
 </p>
 
 The designed test cases covered both expected system behavior and edge cases to ensure reliable functionality across multiple user scenarios.
@@ -94,7 +94,7 @@ The designed test cases covered both expected system behavior and edge cases to 
 ## Phase 3 — Test Execution
 
 <p align="center">
-  <img src="images/junit.png" width="90%">
+  <img src="junit.png" width="90%">
 </p>
 
 The planned test cases were implemented and executed using **JUnit**.
@@ -114,7 +114,7 @@ Each execution result was documented to verify that the implemented behavior mat
 ## Test Results
 
 <p align="center">
-  <img src="images/results.png" width="90%">
+  <img src="results.png" width="90%">
 </p>
 
 The execution phase confirmed successful validation of major application functionality, including authentication, journaling, mood tracking, notifications, and user interaction workflows.
@@ -175,4 +175,4 @@ The project was completed collaboratively, with each team member contributing to
 
 # Key Takeaways
 
-Working on Soluna strengthened my understanding of software quality assurance by demonstrating that reliable software is achieved through structured planning, thoughtful test design, and systematic validation. The project reinforced the importance of translating requirements into measurable test cases and using testing as an integral part of the software development lifecycle.
+Working on Soluna strengthened my understanding of software quality assurance by demonstrating that reliable software is achieved through structured planning, thoughtful test design, and systematic validation. This project reinforced the importance of comprehensive documentation and meticulous test execution in building confidence in software systems.
